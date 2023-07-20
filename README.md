@@ -7,7 +7,7 @@
 <h3 align="left">Medias:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dorukozgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorukozgen" height="30" width="40" /></a>
-<a href="https://instagram.com/polemikal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polemikal" height="30" width="40" /></a>
+<a href="https://instagram.com/dorukozgen0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="polemikal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
