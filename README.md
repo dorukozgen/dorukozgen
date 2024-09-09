@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Doruk</h1>
-<h4>I'm 19 years old and I'm mostly interested in Software Testing, QA Testing and QA Automation Engineering. I am also interested in full-stack web development.</h3>
+<h4>I'm 20 years old and I'm mostly interested in Software Testing, QA Testing and QA Automation Engineering. I am also interested in full-stack web development.</h3>
 
 - 📫 How to reach me **dorukozgen0@gmail.com**
 <br>
