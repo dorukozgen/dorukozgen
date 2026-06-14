@@ -53,6 +53,6 @@ I'm open to collaboration and new opportunities.
 
 ### Contact
 
-- Email: dorukozgen0@gmail.com
+- Email: doruk@fleetify.dev
 - [LinkedIn](linkedin.com/in/dorukozgen)
 - [Instagram](instagram.com/dorukozgn)
